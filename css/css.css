@@ -1,0 +1,43 @@
+body,.container,.container ul,.container li{
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+ul .part {
+    width: 100%;
+}
+
+.part-container {
+    margin: 0 auto;
+    width: 736px;
+}
+
+.part-title{
+    height: 80px;
+    padding-top: 10px;
+    text-align: center
+}
+
+.part-container .member {
+    width: 348px;
+    height: 500px;
+    float: left;
+    margin: 0 10px;
+}
+
+.portrait {
+    width: 348px;
+    height: 348px;
+}
+
+.pinfo {
+    /*margin: 0 10px;*/
+}
+
+.pinfo h3 {
+    text-align: center;
+}
